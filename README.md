@@ -15,3 +15,4 @@
   <li>How to use the function window.matchmedia to watch the window size</li>
   
 </ul>
+note:install the bootstrap using npm in your laptop to see the project
